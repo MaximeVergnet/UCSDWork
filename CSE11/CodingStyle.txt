@@ -1,0 +1,30 @@
+///////////////////////////////////////////////////////////////////////////////
+//                   ALL STUDENTS COMPLETE THESE SECTIONS
+// Title:              fileName
+// Files:              fileName.java
+// Quarter:            CSE 11, Fall Quarter 2024
+//
+// Author:             Maxime Vergnet
+// Email:              mvergnet@ucsd.edu
+// Instructor's Name:  Paul Cao
+//
+///////////////////////////////////////////////////////////////////////////////
+//
+// Persons:          anyone who helped
+//
+//////////////////////////// 80 columns wide //////////////////////////////////
+
+/**
+ * DescriptionOfClass
+ *
+ * @author Maxime Vergnet
+ */
+
+/**
+ * DescriptionOfMethod
+ * 
+ * @param 
+ * @param 
+ * 
+ * @return 
+ */ 

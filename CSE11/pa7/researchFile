@@ -1,0 +1,16 @@
+Researcher Faculty
+Name:	Maxime
+Department:	Computer Science
+Students:
+[Graduate Student
+Name:	Maxime
+Courses:	[CSE 11, Math 18, CHEM 6A, COMM 40]
+Specialization:	Computer Science
+NSFFellow:	false
+, Undergraduate Student
+Name:	Maxime
+Courses:	[CSE 11, Math 18, CHEM 6A, COMM 40]
+College:	7th college
+Regents:	false
+]
+
